@@ -1,0 +1,5 @@
+﻿  source.cpp
+c:\users\jett\documents\visual studio 2015\projects\snake\snake\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\jett\documents\visual studio 2015\projects\snake\snake\source.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.vcxproj -> C:\Users\JETT\Documents\Visual Studio 2015\Projects\Snake\Debug\Snake.exe
+  Snake.vcxproj -> C:\Users\JETT\Documents\Visual Studio 2015\Projects\Snake\Debug\Snake.pdb (Full PDB)
